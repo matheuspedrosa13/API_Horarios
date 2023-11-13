@@ -1,0 +1,7 @@
+namespace HorariosEntrevistas.Api.Service.DTO;
+public class HorarioDTO
+{
+    public string PmId { get; set; }
+    public DateTime DataHora { get; set; }
+    public bool Ocupado { get; set; }
+}

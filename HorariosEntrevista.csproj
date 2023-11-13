@@ -10,6 +10,8 @@
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.13" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
     <PackageReference Include="MongoDB.Driver" Version="2.22.0" />
+    <ProjectReference Include="C:\Users\t60811\Desktop\CALENDLY\HorariosEntrevista\HorariosEntrevista.csproj" />
+
   </ItemGroup>
 
 </Project>
